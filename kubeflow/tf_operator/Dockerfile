@@ -1,0 +1,2 @@
+FROM gcr.io/tf-on-k8s-dogfood/tf_operator:v20171129-f8ec762
+MAINTAINER Arika Chen <eaglesora@gmail.com>
